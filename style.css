@@ -27,7 +27,7 @@ p{
     padding-left: 2%;
 }
 .half-div img{
-    width: 80%;
+    width:80%;
 }
 .top-banner{
     background-image: url(images/top-banner.png);
@@ -59,6 +59,7 @@ section{
     box-shadow: 10px 10px 40px gray;
     height: 60%;
     background-color: white;
+    border-radius: 10px;
 }
 .experience-area{
     background-image: url(images/exp-bg.png);
