@@ -26,3 +26,11 @@ h1{
 section{
     height: 500px;
 }
+.button{
+    text-decoration: none;
+    font-weight: bold;
+    color: whitesmoke;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
